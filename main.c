@@ -236,7 +236,7 @@ void userMode()
 
 void displayUserMenu()
 {
-    printf("\t\t\t\t\t****Tourism Management System****\n\n");
+    printf("\t\t\t\t\t***Tourism Management System***\n\n");
     printf("\nUser Mode\n");
     printf("1. Find Locations\n");
     printf("2. Available Packages\n");
